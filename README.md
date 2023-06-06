@@ -11,9 +11,9 @@
   Coffee_Data_Analyses.ipynb  (all analysis performed here)  
   Coffee_Data_Cleanup_and_EDA.ipynb  (data cleanup and export file generated here)  
 * 1 x .csv file imported to Analysis notebook
-* 1 x .pdf write-up (Summary Conclusions of Analysis)
-* Numerous images generated during analysis - saved into separate analyses folders for each question
-* data_folder contains [5] .csv files (raw source data, pre-cleaned), Along with function generated BoxPlots and Regression plots used for initial understanding of data
+* 1 x .pdf write-up (Summary Conclusions >> "GROUP8-WRITEUP.pdf)
+* 5 x G8 Folders (G8, Q1-Q5 >> one for each question in our analysis)
+* 1 x data folder contains [5] .csv files (raw source data, pre-cleaned), Along with function generated BoxPlots and Regression plots used for initial understanding of data
 
 **NOTE - There were 5 questions - all questions are numbered in the code, write-up and the folders with the corresponding images**
 ## CITATIONS:
