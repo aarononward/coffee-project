@@ -1,6 +1,6 @@
 #  **Project 1 - Coffee Data Analysis**
 ##  CONTRIBUTORS:
-1. Aaron Montoya
+1. Aaron Morataya-Rodriquez
 2. Sneha Thomas
 3. Taylor Ward
 4. Ronda Hinz
